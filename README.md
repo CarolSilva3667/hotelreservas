@@ -17,7 +17,7 @@ Sistema de reservas de hotel desenvolvido para gerenciamento de quartos e reserv
 - CSS
 
 ## Prints das Telas
-Estão anexadas não pasta "wireframes"
+Estão anexadas na pasta "wireframes"
 
 ## Passo a Passo de Execução do Projeto
 
